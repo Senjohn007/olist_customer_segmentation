@@ -1,0 +1,11 @@
+🚀 Completed a Customer Segmentation project on the Brazilian Olist e-commerce dataset.
+
+Using RFM analysis (Recency, Frequency, Monetary) and K-Means clustering, I grouped customers into actionable segments like High-Value Loyal, New/Recent, Occasional, and At-Risk.
+
+Key steps: data cleaning, RFM feature engineering, scaling, determining optimal clusters with Elbow Method & Silhouette Score, and PCA-based visualization.
+
+This analysis provides insights for targeted marketing, retention strategies, and business decisions.
+
+Skills: Python, Pandas, scikit-learn, clustering, data visualization.
+
+#DataScience #MachineLearning #CustomerSegmentation #KMeans #RFMAnalysis #Python #DataAnalytics #BusinessIntelligence #Ecommerce #DataVisualization
